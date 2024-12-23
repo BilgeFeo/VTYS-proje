@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ali samet\\source\\repos\\windowsformsapp1\\windowsformsapp1\\bakimcipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\bakimcipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\gisepaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\gisepaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\gisepaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\gisepaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\bakimcipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\bakimcipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC044CB9-B7C3-4116-8A5E-F11175917768}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:50:19.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BakimciPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\BakimciPaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BakimciPaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\BakimciPaneli.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BakimciPaneli.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:03:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AdminPaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminPaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AdminPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:42:16.528Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GisePaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GisePaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\GisePaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GisePaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\GisePaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:32:16.15Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GisePaneli.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GisePaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\GisePaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GisePaneli.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\GisePaneli.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:32:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AdminPaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminPaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\AdminPaneli.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminPaneli.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAuwNMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:37:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BakimciPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\BakimciPaneli.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BakimciPaneli.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\BakimciPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\BakimciPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:03:31.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali Samet\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:30:03.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
